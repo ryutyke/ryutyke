@@ -17,3 +17,5 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=play2ski"/>
   <img src="https://mazandi.herokuapp.com/api?handle=play2ski&theme=warm"/>
 </p>
+
+<br>
